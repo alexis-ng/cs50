@@ -1,4 +1,4 @@
 # cs50 collection
-includes homework assignments and final project. \n
-final project is in Lua using LOVE2D as the engine \n
-homework languages include C, python, and SQL
+Includes homework assignments and final project.
+Final project is in Lua using LOVE2D as the engine.
+Homework languages include C, python, and SQL
